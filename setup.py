@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='cmlidar',
-    version='0.1',
+    version='v0.0.6',
     packages=find_packages(),
     install_requires=[
         # Add dependencies here.
