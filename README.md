@@ -21,7 +21,7 @@ A package that contains colormaps for commonly used atmospheric lidar parameters
 
 - `backscatter`: A sequential perceptually uniform colormap
 
-- `backscatter_discrete`: A discrete colormap of 8 colors to use with the color boundaries `[0.00001, 0.0001, 0.0003, 0.0006, 0.001, 0.0015, 0.002, 0.003, 0.004, 0.005, 0.006, 0.008, 0.01, 0.015, 0.02, 0.03, 0.05]` to highlight particulate atmospheric features such as are seen by the CALIOP lidar and other similar elastic backscatter lidars.
+- `backscatter_discrete`: A discrete colormap of 8 colors to use with the color boundaries `[1e-5, 1e-4, 3e-4, 6e-4, 1e-3, 1.5e-3, 2e-3, 3e-3, 4e-3, 5e-3, 6e-3, 8e-3, 1e-2, 1.5e-2, 2e-2, 3e-2, 5e-2]` to highlight particulate atmospheric features such as are seen by the CALIOP lidar and other similar elastic backscatter lidars.
 
 - `backscatter_continuous`: A continuous version of the discrete colormap keeping the contrast variations of the discrete colormap
 
