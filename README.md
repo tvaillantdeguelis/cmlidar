@@ -33,6 +33,11 @@ To install this package, use the following command:
 `pip install cmlidar`
 
 
-##  RGB values
+## RGB values
 
 RGB values of the colormaps are provided in CSV files under cmlidar/rgb/.
+
+
+## Examples
+
+A script example showing how to use these colormaps with the color boundaries is provided in "example/plot.py".
