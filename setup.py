@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='cmlidar',
-    version='v1.1.0',
+    version='v1.2.1',
     packages=find_packages(),
     install_requires=['matplotlib', 'numpy'],
     package_data={
